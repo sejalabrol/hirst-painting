@@ -48,8 +48,6 @@ for color in color_objects:
     g = color.rgb.g
     b = color.rgb.b
     tup = (r, g, b)
-    #for element in color:
-    #    tup.append(element)
     colors.append(tup)
 """
 
